@@ -1,0 +1,11 @@
+ctf@gdsc-mini-ctf:~$ ls -al
+total 24
+drwxr-xr-x 1 root root 4096 Oct 26 10:28 .
+drwxr-xr-x 1 root root 4096 Oct 26 10:16 ..
+-rwxrwxr-- 1 root root  220 Feb 25  2020 .bash_logout
+-rwxrwxr-- 1 root root 3771 Feb 25  2020 .bashrc
+-rw-r--r-- 1 root root   36 Oct 26 10:15 .hidden_flag.txt
+-rwxrwxr-- 1 root root  807 Feb 25  2020 .profile
+ctf@gdsc-mini-ctf:~$ cat .hidden_flag.txt
+
+GDSC{4lwa45_ch3ck_f0R_Hidden_files}
